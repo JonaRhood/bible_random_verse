@@ -1,1 +1,1 @@
-# Bible random verse project with JacaScript
+# Bible random verse project with JavaScript
